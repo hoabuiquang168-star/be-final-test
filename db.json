@@ -1,0 +1,31 @@
+{
+  "users": [],
+  "notes": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "content": "Study Hooks",
+      "categoryId": 2
+    },
+    {
+      "id": 2,
+      "title": "Meeting",
+      "content": "Client meeting at 3PM",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Work"
+    },
+    {
+      "id": 2,
+      "name": "Study"
+    },
+    {
+      "id": 3,
+      "name": "Personal"
+    }
+  ]
+}
